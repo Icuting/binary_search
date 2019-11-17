@@ -1,0 +1,7 @@
+input{
+    width: 10em;
+    height: 1em;
+}
+.outNum, .outLetter{
+    padding: 1em;
+}
